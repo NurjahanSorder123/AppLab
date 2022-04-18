@@ -404,3 +404,190 @@ p {
     margin-top: 50px;
 }
  /* Ultimate Part End */
+ /* Get Part Start */
+.get-part{
+    border-bottom: 2px solid #f4f4f4;
+}
+.get-part .container{
+    width: 1000px;
+    margin: 0 auto;
+ }
+.get-header .head h5{
+    font-size: 30px;
+    color: #242f51;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 600;   
+}
+.get-header .head h5:nth-child(2){
+    margin-top: -10px;
+}
+.get-header .prant p{
+    font-size: 15px;
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+}
+.get-con-mai{
+    padding: 60px 0;
+}
+.card{
+    border-radius: 10px;
+}
+.dolar-header{
+    background-color: #f6f9fa;
+    padding: 40px 0;
+}
+.dolar-header .doler-first h5{
+    font-size: 50px;
+    color: #242f51;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 600; 
+}
+.dolar-header .doler-first p{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    color: #999ca5;
+    margin-top: 25px;
+}
+.dolar-header .dolor-sec h5{
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+}
+.dolar-header .dolor-sec p{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+    color: #999ca5;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.get-content{
+    padding-bottom: 15px;
+}
+.card-body .get-content p{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+    color: #999ca5;
+    font-weight: 500;
+    padding-top: 25px;
+}
+.get-button{
+    padding: 20px 0;
+}
+.get-button .start {
+    border: none;
+    background-color: transparent;
+    padding: 10px 30px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: #2500f9;
+    font-weight: 500;
+    border-radius: 40px;
+    border: 1.5px solid #999ca5;
+    transition: .9s;
+}
+.get-button .start:hover {
+    border: none;
+    background-color: #2500f9;
+    color: #ffffff;
+    border: 1.5px solid #2500f9;
+}
+ /* Get Part End */
+/* Meet Part Start */
+.meet-con-mai{
+    padding: 90px 0;
+}
+.meet-img img{
+    margin-left: -40px;
+    margin-top: 70px;
+}
+.meet-header h5{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+}
+.meet-header h5:nth-child(2){
+    margin-top: -10px;
+}
+.meet-header .presnt{
+    margin-top: 20px;
+}
+.meet-header .presnt p{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+    color: #616368;
+}
+.meet-con .start{
+    margin-top: 15px;
+    color: #ffcc00;
+}
+.meet-content h5{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+    margin-top: 13px;
+}
+.meet-content .prent p{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+    color: #616368;
+}
+.ceo{
+    margin-top: 20px;
+}
+.ceo .ceo-content{
+    margin-left: 15px;
+    margin-top: 22px;
+}
+.ceo .ceo-content h5{
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+}
+.ceo .ceo-content p{
+    margin-top: -5px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif; 
+    color: #616368;
+}
+/* Meet Part End */
+/* Question Part Start */
+.question-part .container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.question-header h5{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+}
+.question-header p{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    color: #616368;
+}
+.question-mai-con{
+    padding: 60px 0;
+}
+.question-content{
+    background-color: #f5f7fa;
+    padding: 30px;
+    border-radius: 10px;
+}
+.question-content h5{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.question-content p{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    color: #616368;
+}
+/* Question Part End */
