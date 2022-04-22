@@ -555,6 +555,9 @@ p {
 }
 /* Meet Part End */
 /* Question Part Start */
+.question-part{
+    padding: 45px 0;
+}
 .question-part .container{
     width: 1000px;
     margin: 0 auto;
@@ -590,4 +593,110 @@ p {
     font-family: 'Poppins', sans-serif; 
     color: #616368;
 }
+.accordion-button{
+    background-color: #f5f7fa;
+    margin-top: 10px;
+    border: none;
+    border-bottom: none;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.accordion-body {
+    background-color: #f5f7fa;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+}
+.accordion-button:focus{
+    box-shadow: none;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+    background-color: #f5f7fa;
+}
 /* Question Part End */
+/* Dwon Part Start */
+.dwon-part{
+    border-top: 2px solid #f4f4f4;
+}
+.dwon-part .container{
+    width: 1235px;
+    margin: 0 auto;
+}
+.dwon-con{
+    padding-top: 56px;
+}
+.dwon-content h5{
+    font-size: 38px;
+    font-family: 'Poppins', sans-serif; 
+    color: #242f51;
+    font-weight: 600;
+}
+.dwon-content p{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    color: #616368;
+}
+.dwon-imge img{
+    padding-top: 30px;
+}
+.dwon-img2 img{
+    margin-left: 105px;
+    margin-bottom: -43px;
+}
+/* Dwon Part End */
+/* Footer Part Start */
+.app-footer{
+    background-color: #09142e;
+}
+.footer-con-mai{
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+.footer-content{
+    padding-top: 40px;
+}
+.footer-content .link1{
+    text-align: right;
+}
+.footer-content .link1 a{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    color: #ffffff;
+    margin-right: 20px;
+}
+.footer-content .link1 a:nth-child(2){
+    margin-right: 0;
+}
+.footer-content .link2 a{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    color: #ffffff;
+    margin-right: 20px;
+}
+.footer-content .link2 a:nth-child(1){
+    margin-right: 0;
+}
+.footer-link i{
+    color: #273043;
+    font-size: 25px;
+    margin-right: 25px;
+    padding-top: 40px;
+}
+.footer-link i:hover{
+    color: #ffffff;
+    transition: .9s;
+}
+.copy-right{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    color: #273043;
+    padding-top: 40px;
+}
+/* Footer Part End */
