@@ -1,3 +1,4 @@
+/*===================================== Media 576px ========================= */
 @media(max-width: 576px){
 /* Best Part Start */
 .iphone img {
@@ -7,7 +8,66 @@
     font-size: 30px !important;
 }
 /* Best Part End */
+/* Trust Part Start */
+.trust-part .container{
+    width: 100% !important;
 }
+/* Trust Part End */
+/* Awsome Part Start */
+.awsome-content1,.awsome-content2,.awsome-content3{
+    display: block !important;
+    text-align: center;
+}
+.awsome-icon img{
+    margin-top: -25px !important;
+}
+.awsome-content-con,.awsome-content-con2,.awsome-content-con3{
+    margin-top: 20px;
+}
+.awsome-head{
+    text-align: center;
+}
+.awsome-head h5:nth-child(1) {
+    margin-top: 15px !important;
+  }
+/* Awsome Part End */
+/* Smart Part Start */
+.smart-part .container{
+    width: 100% !important;
+}
+.smart-con-mai {
+    padding-bottom: 40px !important;
+  }
+/* Smart Part End */
+/* Auto Part Start */
+.auto-part .container{
+    width: 100% !important;
+}
+.auto-con1,.auto-con2,.auto-con3{
+    text-align: center;
+}
+.auto-con2{
+    margin-top: 25px;
+}
+/* Auto Part End */
+/*  Desingen Part Start  */
+.desingen-content {
+    padding-left: 15px !important;
+  }
+.desingen-content h5:nth-child(1){
+    padding-top: 30px !important;
+}
+/*  Desingen Part End */
+/* Why Part Start */
+.why-part .container{
+    width: 100% !important;
+}
+.why-header h5 {
+    font-size: 27px !important;
+  }
+/* Why Part End */
+}
+/*===================================== Media 768px ========================= */
 @media(max-width: 768px){
 /* Best Part Start */
 .best-con {
@@ -15,7 +75,29 @@
     padding-bottom: 40px !important;
   }
 /* Best Part End */
+/* Trust Part Start */
+.trust-img1 img:nth-child(2){
+    margin-top: 40px;
 }
+.trust-img2 img:nth-child(2){
+    margin-top: 40px;
+}
+/* Trust Part End */
+/* Smart Part Start */
+.smart-con{
+    border: none;
+}
+.smart-content{
+    margin-left: 0 !important;
+}
+/* Smart Part End */
+/* Auto Part Start */
+.auto-con3{
+    margin-top: 25px;
+}
+/* Auto Part End */
+}
+/*===================================== Media 992px ========================= */
 @media(max-width: 992px){
 /* Best Part Start */
 /* Navbar Part Start */
@@ -36,7 +118,18 @@
     font-size: 38px !important;
   }
 /* Best Part End */
+/* Awsome Part Start */
+.awsome-part .container{
+    width: 100%;
 }
+/* Awsome Part End */
+/*  Desingen Part Start  */
+.desingen-content {
+    padding-top: 0px !important;
+  }
+/*  Desingen Part End */
+}
+/*===================================== Media 1200px ========================= */
 @media(max-width: 1200px){
 
 }
