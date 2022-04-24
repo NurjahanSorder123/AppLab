@@ -1,0 +1,42 @@
+@media(max-width: 576px){
+/* Best Part Start */
+.iphone img {
+    width: 300px !important;
+  }
+.best-con .head h5{
+    font-size: 30px !important;
+}
+/* Best Part End */
+}
+@media(max-width: 768px){
+/* Best Part Start */
+.best-con {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+  }
+/* Best Part End */
+}
+@media(max-width: 992px){
+/* Best Part Start */
+/* Navbar Part Start */
+.navbar-light .navbar-toggler{
+    border: none !important;
+}
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+.nav-item{
+    text-align: center !important;
+}
+/* Navbar Part End */
+.best-con-mai .container{
+    width: 100% !important;
+}
+.best-con .head h5 {
+    font-size: 38px !important;
+  }
+/* Best Part End */
+}
+@media(max-width: 1200px){
+
+}
