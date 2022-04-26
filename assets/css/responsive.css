@@ -66,6 +66,49 @@
     font-size: 27px !important;
   }
 /* Why Part End */
+/* Ultimate Part Start */
+.ultimate-content-con,.ultimate-header,.ultimate-con{
+    text-align: center;
+}
+/* Ultimate Part End */
+/* Awsome Part Start */
+.get-part .container{
+    width: 100% !important;
+}
+.get-header .head h5 {
+    font-size: 21px !important;
+  }
+/* Awsome Part End */
+/* Meet Part Start */
+.meet-header h5 {
+    font-size: 27px !important;
+  }
+.meet-img img {
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+  }
+.meet-header h5:nth-child(1) {
+    margin-top: 35px;
+  }
+/* Meet Part End */
+/* Question Part Start */
+.question-part .container{
+    width: 100% !important;
+}
+/* Question Part End */
+/* Dwon Part Start */
+.dwon-img2 img {
+    margin-bottom: -25px !important;
+  }
+/* Dwon Part End */
+/* Footer Part Start */
+.footer-content .link1{
+    text-align: center !important;
+}
+.footer-content .link2{
+    text-align: center !important;
+}
+/* Footer Part End */
 }
 /*===================================== Media 768px ========================= */
 @media(max-width: 768px){
@@ -96,6 +139,11 @@
     margin-top: 25px;
 }
 /* Auto Part End */
+/* Ultimate Part Start */
+.con-img img {
+    margin-left: 0px !important;
+  }
+/* Ultimate Part End */
 }
 /*===================================== Media 992px ========================= */
 @media(max-width: 992px){
@@ -128,8 +176,20 @@
     padding-top: 0px !important;
   }
 /*  Desingen Part End */
+/* Ultimate Part Start */
+.ultimate-part .container{
+    width: 100% !important;
+}
+/* Ultimate Part End */
 }
 /*===================================== Media 1200px ========================= */
 @media(max-width: 1200px){
-
+/* Dwon Part Start */
+.dwon-part .container{
+    width: 100% !important;
+}
+.dwon-img2 img {
+    margin-top: 40px;
+  }
+/* Dwon Part End */
 }
